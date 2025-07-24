@@ -43,9 +43,15 @@ Consult the response view object in JSON:
 ```json
 // Technologies
 
+["javascript-api-express-call", "javascript-db-mongo-call", "javascript-db-redis-call"]
+
 // Operations
 
+['READ']
+
 // Concepts
+
+['concept1' 'concept2', ...]
 ```
 
 ## 👩‍💻 Development details
