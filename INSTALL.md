@@ -21,8 +21,8 @@ You have the tree following options.
 
 #### Launching from Docker Hub (preferred)
 
-- TODO: link to Docker Hub
-
+- [Docker Hub repository](https://hub.docker.com/r/maxiandr/denim-evolution).
+ 
 #### Launching from source code
 
 - Open the project in an IDE and install the dependencies.
