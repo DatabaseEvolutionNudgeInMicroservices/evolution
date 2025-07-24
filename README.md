@@ -32,9 +32,9 @@ Invoke the following routes by sending a static analysis report in JSON (obtaine
 
 Routes:
 
-- [POST /technologies] (http://localhost:3000/technologies) for retrieving the list of technologies used in the microservices architecture.
-- [POST /operations] (http://localhost:3000/operations) for retrieving the list of operations used in the microservices architecture.
-- [POST /concepts] (http://localhost:3000/concepts) for retrieving the list of data concepts used in the microservices architecture.
+- [POST /technologies](http://localhost:3000/technologies) for retrieving the list of technologies used in the microservices architecture.
+- [POST /operations](http://localhost:3000/operations) for retrieving the list of operations used in the microservices architecture.
+- [POST /concepts](http://localhost:3000/concepts) for retrieving the list of data concepts used in the microservices architecture.
 
 **OUTPUT**
 
